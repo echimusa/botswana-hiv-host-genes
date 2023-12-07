@@ -1,0 +1,15 @@
+genotypename:   /mnt/lustre/groups/CBBI0818/PRISKA/POP_GEN/PCA/MERGED_reduced.ped
+snpname:        /mnt/lustre/groups/CBBI0818/PRISKA/POP_GEN/PCA/MERGED_reduced.map
+indivname:      /mnt/lustre/groups/CBBI0818/PRISKA/POP_GEN/PCA/MERGED_reduced.pedind
+poplistname:    /mnt/lustre/groups/CBBI0818/PRISKA/POP_GEN/PCA/MERGED_reduced
+evecoutname:    /mnt/lustre/groups/CBBI0818/PRISKA/POP_GEN/PCA/MERGED_reduced.evec
+evaloutname:    /mnt/lustre/groups/CBBI0818/PRISKA/POP_GEN/PCA/MERGED_reduced.eval
+phylipoutname:  /mnt/lustre/groups/CBBI0818/PRISKA/POP_GEN/PCA/MERGED_reduced.fst
+numoutlieriter: 0
+outlieroutname: /mnt/lustre/groups/CBBI0818/PRISKA/POP_GEN/PCA/MERGED_reduced.out
+altnormstyle: NO
+familynames: NO
+missingmode: NO
+nsnpldregress: 0
+noxdata: YES
+nomalexhet: YES
